@@ -1,7 +1,6 @@
 # Project Nexus
 
-**Duration:** Nov 10, 2025 – Nov 17, 2025  
-**Repository:** [alx-project-nexus](https://github.com/your-username/alx-project-nexus)  
+**Repository:** [alx-project-nexus](https://github.com/Said-Amarire/alx-project-nexus)  
 
 ---
 
