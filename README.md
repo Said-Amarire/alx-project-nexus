@@ -2,7 +2,7 @@
 
 **Project Type:** Web Application  
 **Duration:** Nov 10, 2025 – Dec 1, 2025  
-**GitHub Repository:** [alx-project-nexus](https://github.com/username/alx-project-nexus)  
+**GitHub Repository:** [alx-project-nexus](https://github.com/Said-Amarire/alx-project-nexus)  
 
 ---
 
@@ -37,4 +37,4 @@ This project is part of **Project Nexus** for the ProDev Frontend Engineering pr
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/username/alx-project-nexus.git
+git clone https://github.com/Said-Amarire/alx-project-nexus.git
