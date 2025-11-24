@@ -1,71 +1,40 @@
-# Project Nexus
+# Movie Browser - Project Nexus
 
-**Repository:** [alx-project-nexus](https://github.com/Said-Amarire/alx-project-nexus)  
+**Project Type:** Web Application  
+**Duration:** Nov 10, 2025 – Dec 1, 2025  
+**GitHub Repository:** [alx-project-nexus](https://github.com/username/alx-project-nexus)  
 
 ---
 
 ## Overview
 
-Project Nexus is a GitHub repository dedicated to documenting major learnings from the **ProDev Frontend Engineering program**. This repository serves as a knowledge hub, showcasing understanding of frontend engineering concepts, tools, and best practices acquired throughout the program.  
+Movie Browser is a simple web application that allows users to browse movies, search for them by name, and view detailed information such as release year, genre, and ratings.  
+
+This project is part of **Project Nexus** for the ProDev Frontend Engineering program, designed to demonstrate practical skills in frontend development, API integration, responsive design, and project documentation.  
 
 ---
 
-## Project Objective
+## Features
 
-The objective of this project is to:  
-
-- Consolidate key learnings from the ProDev Frontend Engineering program.  
-- Document major frontend technologies, concepts, challenges, and solutions.  
-- Serve as a reference guide for both current and future learners.  
-- Foster collaboration between frontend and backend learners.  
+- **Home Page:** Displays a list of movies fetched from the OMDB API.  
+- **Search Functionality:** Users can search movies by name.  
+- **Movie Details Page:** Shows detailed information about a selected movie.  
+- **Responsive UI:** Clean and visually appealing design using TailwindCSS.  
 
 ---
 
-## Key Learnings
+## Technologies Used
 
-### Key Technologies Covered
-
-- **Frontend Frameworks:** Next.js  
-- **Styling:** TailwindCSS, CSS Modules  
-- **Programming Languages:** TypeScript, JavaScript  
-- **Data & APIs:** GraphQL, REST API Integration  
-- **System Design & Architecture:** Component-based design, scalable architecture  
-- **Tools & Best Practices:** Git, GitHub, Code Reviews, Testing, Documentation  
-
-### Challenges Faced & Solutions
-
-| Challenge | Solution |
-|-----------|---------|
-| Understanding TypeScript types | Converted existing JavaScript projects to TypeScript, practiced defining types for components and API responses |
-| Integrating GraphQL APIs | Used Apollo Client and followed official documentation to query and mutate data |
-| Responsive design issues with TailwindCSS | Applied utility-first classes, custom breakpoints, and mobile-first design strategy |
-| Coordinating frontend-backend work | Set up collaborative sessions with backend learners, shared API documentation, and tested endpoints together |
-
-### Best Practices & Personal Takeaways
-
-- Maintain a clean and organized component structure.  
-- Write reusable and scalable code.  
-- Document processes and code for easy collaboration.  
-- Communicate frequently with team members to avoid integration issues.  
-- Test early and often to prevent future bugs and improve reliability.  
+- **Frontend Framework:** Next.js (React-based)  
+- **Styling:** TailwindCSS  
+- **Programming Language:** TypeScript / JavaScript  
+- **API Integration:** [OMDB API](http://www.omdbapi.com/)  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## Collaboration
+## Installation and Setup
 
-### Collaborate With
-
-- **Frontend Learners:** Exchange ideas, organize study/coding sessions, maximize collective learning.  
-- **Backend Learners:** Essential for connecting frontend to backend endpoints and ensuring functional integrations.  
-
-### Where to Collaborate
-
-- **Discord Channel:** `#ProDevProjectNexus`  
-- Use it to exchange ideas, ask/answer questions, and stay updated with staff announcements.  
-
-💡 **ProDev Tip:** Use the first week to communicate your project idea and identify backend learners working on the same project for effective collaboration.  
-
----
-
-## Repository Structure
-
+1. Clone the repository:  
+```bash
+git clone https://github.com/username/alx-project-nexus.git
